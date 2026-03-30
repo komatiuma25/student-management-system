@@ -20,3 +20,11 @@ A Python-based application to manage student records using CRUD operations.
 2. Run the file:
 ```bash
 python student.py
+
+## 📸 Screenshots
+
+### Main UI
+![Main](screenshot.png)
+
+### Edit Popup
+![Edit](edit.png)
