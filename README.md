@@ -28,3 +28,23 @@ python student.py
 
 ### Edit Popup
 ![Edit](edit.png)
+
+
+
+
+# Weather App 🌦
+
+A Python Tkinter-based GUI application that fetches real-time weather data using OpenWeather API.
+
+## Features
+- Get temperature, weather condition, humidity
+- Simple and clean UI
+- API integration
+
+## Tech Stack
+- Python
+- Tkinter
+- Requests API
+
+## Screenshots
+(Add your screenshots here)
